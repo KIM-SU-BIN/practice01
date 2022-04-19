@@ -4,7 +4,7 @@ public class Ex08 {
 	public static void main(String[] args) {
 		//Q. 오류 수정하기
 		
-		int x, y = 0;		    	   // x와 y를 모두 0으로 초기화
+		//int x, y = 0;		    	   // x와 y를 모두 0으로 초기화
 		
 		/* char grade = "A";	    	문자 A를 grade에 대입 
 		따옴표 오류. char 자료형 => 작은 따옴표'' */

@@ -5,7 +5,7 @@ public class Ex10 {
 		
 		//Q. 오류 원인 찾기
 		
-		int x;
+		//int x;
 		//System.out.println(x);
 		
 		/* X의 값이 없으므로 추출 불가! */
